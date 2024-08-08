@@ -22,12 +22,12 @@ typora-root-url: D:\github\tech_exp\images
 ##### 3、检查密钥生成
 最终，在您的电脑本地/c/Users/hanchang.liu/.ssh/id_rsa文件夹中可见：
 
-![](/image-20240808104750578.png)
+[![](/image-20240808104750578.png)](https://github.com/liuhanchang/tech_exp/blob/main/images/image-20240808104750578.png)
 
 #### 三、在soure tree添加SSH Key
 ##### 1、点击工具 -> 选项
 
-![](/image-20240808104846185.png)
+[![](/image-20240808104846185.png)](https://github.com/liuhanchang/tech_exp/blob/main/images/image-20240808104846185.png)
 
 
 
@@ -42,7 +42,7 @@ typora-root-url: D:\github\tech_exp\images
 
 添加成功显示：
 
-![](/image-20240808105030384.png)
+[![](/image-20240808105030384.png)](https://github.com/liuhanchang/tech_exp/blob/main/images/image-20240808105030384.png)
 
 五、SourceTree 下载 git 项目
 1. 复制你的 git 地址
